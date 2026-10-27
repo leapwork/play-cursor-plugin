@@ -1,0 +1,10 @@
+{
+  "name": "leapwork-play",
+  "version": "1.0.0",
+  "description": "Create, run and debug Leapwork Play tests and runlists, build agents, and hand work to Play's AI workflows, right from Cursor.",
+  "author": { "name": "Leapwork" },
+  "homepage": "https://leapwork.ai/",
+  "repository": "https://github.com/leapwork/play-cursor-plugin",
+  "keywords": ["testing", "test-automation", "playwright", "leapwork"],
+  "logo": "assets/logo.png"
+}
